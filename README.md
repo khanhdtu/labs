@@ -1,2 +1,1 @@
-# labs
-Khanh
+Khanh Nguyen
